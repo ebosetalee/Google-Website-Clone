@@ -83,9 +83,19 @@ body{
     border: 1px solid #4d90fe;
   }
   
-  .Bcontainer {
+  .button {
     text-align: center;
     margin: 0 auto;
     width: 270px;
     padding-top: 20px;
   }
+.contents {
+    padding-top: 20vh;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 25vh;
+}
+  
+.logo {
+    padding-bottom: 15px;
+}
